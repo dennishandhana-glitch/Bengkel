@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Produk Contoh",
+    "size": "-",
+    "category": "Sparepart Lainnya",
+    "price": 0,
+    "review": true,
+    "uom": "item"
+  }
+]

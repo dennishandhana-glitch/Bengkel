@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "commit": "eb2868a80f59c7f52549c19e465d1e81e89af9e1",
+  "files": {
+    "app/page.tsx": "cf8f67f8fd434a7fe909524dbad2d7323d5de0d06563fb05bd00916c312a8c38",
+    "app/stock-tools.tsx": "73bc57eb2b701c63ef16cdc64c0388455d83f17ddc6bd6028966c4e1a96a80f3",
+    "app/globals.css": "e50673d49d0b532ea42a249d337d8a8527a2f57420fec21c70f39659d10522a0",
+    "app/api/workshop/route.ts": "103792338821ab13524e3bbcd7e90adaae3424622f2c9d37a5f5ebec1ccf381b",
+    "app/api/workshop/products.ts": "c172c49a917ea00860cb2f1341e54a9bac7c868818ec390c365a03f2d2345a6e",
+    "lib/workshop.ts": "4bbc15b4be22cd1f8f237effa0d8868a8f719bc82d386aaf47ad071e0d68ef02",
+    "lib/sale-lines.ts": "8fedb28b8c7a4ddac066173232fa48e8cdf41ca8f373d1c6d2e8424dff8bf53c"
+  }
+}

@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "commit": "eb2868a80f59c7f52549c19e465d1e81e89af9e1",
+  "version": 2,
+  "commit": "ead37e4c0ad175721014802f8c1355c068025e7a",
   "files": {
-    "app/page.tsx": "cf8f67f8fd434a7fe909524dbad2d7323d5de0d06563fb05bd00916c312a8c38",
+    "app/page.tsx": "635ccfa17dd174c54adaded6abadfc304d3ff29027165d857ba0c5e6488ac8b2",
     "app/stock-tools.tsx": "73bc57eb2b701c63ef16cdc64c0388455d83f17ddc6bd6028966c4e1a96a80f3",
     "app/globals.css": "e50673d49d0b532ea42a249d337d8a8527a2f57420fec21c70f39659d10522a0",
     "app/api/workshop/route.ts": "103792338821ab13524e3bbcd7e90adaae3424622f2c9d37a5f5ebec1ccf381b",
